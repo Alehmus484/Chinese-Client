@@ -1,2 +1,2 @@
-# Chinese-Client
-Lol-ChineseClient
+# Lol-ChineseClient
+
